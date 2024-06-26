@@ -1,10 +1,8 @@
 package com.web.careus.service;
 
-import com.ict.careus.dto.response.*;
 import com.web.careus.enumeration.InfakCategory;
 import com.web.careus.enumeration.WakafCategory;
 import com.web.careus.enumeration.ZakatCategory;
-import com.ict.careus.repository.*;
 import com.web.careus.dto.response.*;
 import com.web.careus.repository.*;
 import org.springframework.beans.factory.annotation.Autowired;

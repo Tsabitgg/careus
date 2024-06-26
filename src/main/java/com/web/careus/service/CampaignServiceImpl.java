@@ -10,7 +10,6 @@ import com.web.careus.model.campaign.Campaign;
 import com.web.careus.model.campaign.Category;
 import com.web.careus.model.transaction.Submission;
 import com.web.careus.model.user.User;
-import com.ict.careus.repository.*;
 import com.web.careus.repository.CampaignRepository;
 import com.web.careus.repository.CategoryRepository;
 import com.web.careus.repository.SubmissionRepository;

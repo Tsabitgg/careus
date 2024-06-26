@@ -11,7 +11,6 @@ import com.web.careus.model.user.User;
 import com.web.careus.model.ziswaf.Infak;
 import com.web.careus.model.ziswaf.Wakaf;
 import com.web.careus.model.ziswaf.Zakat;
-import com.ict.careus.repository.*;
 import com.web.careus.repository.*;
 import com.web.careus.security.jwt.JwtUtils;
 import jakarta.transaction.Transactional;

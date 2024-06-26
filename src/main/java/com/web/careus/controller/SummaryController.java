@@ -1,6 +1,6 @@
 package com.web.careus.controller;
 
-import com.ict.careus.dto.response.*;
+import com.web.careus.dto.response.*;
 import com.web.careus.service.SummaryService;
 import com.web.careus.dto.response.*;
 import org.springframework.beans.factory.annotation.Autowired;
